@@ -1,7 +1,6 @@
 {
     "name": "wasm-playground",
     "version": "1.0.0",
-    "private": true,
     "dependencies": {
         "assemblyscript": "^0.22.0"
     },
