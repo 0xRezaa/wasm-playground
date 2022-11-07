@@ -1,0 +1,5 @@
+{
+    "name": "@wasm-playground/assembly-script-hello-world",
+    "version": "1.0.0",
+    "private": true
+}
